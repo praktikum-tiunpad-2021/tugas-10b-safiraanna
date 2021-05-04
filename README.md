@@ -3,7 +3,7 @@
 
 > Materi: Graph  
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Anna Safira Dila - 140810200034
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
